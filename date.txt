@@ -1,2 +1,3 @@
 Mi primera práctica con GitHub.
 Estoy aprendiendo a sincronizar archivos.
+Aprendo las buenas prácticas de sincronización.
