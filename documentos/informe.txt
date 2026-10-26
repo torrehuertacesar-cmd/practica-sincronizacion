@@ -1,0 +1,5 @@
+Informe de mantenimiento del proyecto.
+
+Repositorio: practica-sincronizacion.
+
+Tema: Buenas prácticas de sincronización en GitHub.
